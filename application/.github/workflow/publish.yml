@@ -3,21 +3,21 @@ name: Publish Docker image
 on:
   push:
     branches:
-    - main
+      - main
 
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      
+    
+    steps:  
       - name: Checkout respository
-        - uses: actions/checkout@v3
+        uses: actions/checkout@v3
             
       - name: Set up .net
         uses: actions/setup-dotnet@v3
         with:
-        - dotnet-version: '6.x'
+          dotnet-version: '6.x'
             
       - name: Restore and build
         run: |
@@ -25,11 +25,7 @@ jobs:
           dotnet build
           
             
-      - name: Login to dockerhub
-        run: docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_TOKEN }}
-
-            
-      - name: Build and push docker image
+      - name: Build docker image
         run: |
           docker build -t 1skp/gruppupg_cicd .
           docker push 1skp/gruppupg_cicd
