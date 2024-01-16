@@ -24,7 +24,7 @@ jobs:
         dotnet build
           
     - name: Build docker image
-      run: docker build -f adamohlson1/gruppuppgift . 
+      run: docker build -f beanie98/gruppuppgift . 
 
 
 
