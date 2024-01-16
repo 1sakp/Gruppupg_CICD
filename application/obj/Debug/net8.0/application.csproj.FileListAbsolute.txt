@@ -1,0 +1,15 @@
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\bin\Debug\net8.0\application.exe
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\bin\Debug\net8.0\application.deps.json
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\bin\Debug\net8.0\application.runtimeconfig.json
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\bin\Debug\net8.0\application.dll
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\bin\Debug\net8.0\application.pdb
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.AssemblyInfoInputs.cache
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.AssemblyInfo.cs
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.csproj.CoreCompileInputs.cache
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.sourcelink.json
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.dll
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\refint\application.dll
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.pdb
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\application.genruntimeconfig.cache
+C:\Users\Miranda Palm\Grupp1\Gruppupg_CICD\application\obj\Debug\net8.0\ref\application.dll
