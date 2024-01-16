@@ -1,0 +1,6 @@
+c:\Users\Miranda Palm\OneDrive\Documents\Gruppupg_CICD\obj\Debug\net8.0\application.csproj.AssemblyReference.cache
+c:\Users\Miranda Palm\OneDrive\Documents\Gruppupg_CICD\obj\Debug\net8.0\application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Miranda Palm\OneDrive\Documents\Gruppupg_CICD\obj\Debug\net8.0\application.AssemblyInfoInputs.cache
+c:\Users\Miranda Palm\OneDrive\Documents\Gruppupg_CICD\obj\Debug\net8.0\application.AssemblyInfo.cs
+c:\Users\Miranda Palm\OneDrive\Documents\Gruppupg_CICD\obj\Debug\net8.0\application.csproj.CoreCompileInputs.cache
+c:\Users\Miranda Palm\OneDrive\Documents\Gruppupg_CICD\obj\Debug\net8.0\application.sourcelink.json
