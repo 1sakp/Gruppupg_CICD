@@ -24,7 +24,6 @@ jobs:
         dotnet build
           
     - name: Build docker image
-      run: docker build -f beanie98/gruppuppgift . 
-
+      run: docker push beanie98/gruppuppgift .
 
 
