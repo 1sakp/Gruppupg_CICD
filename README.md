@@ -6,8 +6,14 @@ EnhetsTester
 Test av Personnumrets Längd
 För att förstärka programmets flexibilitet och förmåga att hantera olika scenario skapade vi ett enhetstest för att verifiera längden på ett personnummer. Vi inkluderade både giltiga och ogiltiga personnummer, där längden var korrekt respektive för kort. Detta test syftade till att visa programmet kan hantera olika scenarier och ge korrekta svar.
 
-Test av Könet i Personnumret
-För att verifiera korrekt kön i personnumret skapade vi ett enhetstest där vi angav personnummer och förväntade oss korrekt resultat beroende på om personen borde vara man eller kvinna. Genom att använda sig av personnummer med kända kön verifierades programmets korrekta identifiering av könet.
+Test av könet i personnumret
+För att verifiera korrekt kön i personnumret skapade vi ett enhetstest där vi angav personnummer och förväntade oss korrekt resultat baserat på om personen borde vara man eller kvinna. Genom att använda personnummer med kända kön verifierade vi att programmet korrekt identifierade könet.
+
+
+
+
+
+
 
 Test av Åldersvalidering
 För att utvidga programmets funktionalitet inkluderade vi ett test för att validera om den ålder som härleddes från personnumret stämde överens med förväntad ålder. Vi använde personnummer där vi specificerade en ålder och verifierade att programmet kunde korrekt fastställa om personen var av den angivna åldern.
